@@ -44,3 +44,24 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+### add repository to project
+
+git init
+git remote add origin git@github.com:minhtiepaa1/header_antd_custom_ui.git // add link repo
+git remote -v // check
+fix: There isn’t anything to compare. main and master are entirely different commit histories.
+git checkout master
+git branch main master -f
+git checkout main
+git push origin main -f
+
+## check gmail at vs code
+
+git config user.email
+git config user.name
+-- add new email to vs code: git config --global user.email "your_email@example.com"
+
+## custom snipets
+
+// https://snippet-generator.app/?description=&tabtrigger=&snippet=&mode=vscode
