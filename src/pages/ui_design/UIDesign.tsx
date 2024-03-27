@@ -153,10 +153,36 @@ const UIDesign = () => {
     ...p22,
     "step",
   ];
-  console.log(saveImages);
+
+  // State to manage whether to display the scroll-to-top button
+  const [showScrollButton, setShowScrollButton] = useState(false);
+
+  // Function to check scroll position and update showScrollButton state
+  const handleScroll = () => {
+    if (window.pageYOffset > 20) {
+      setShowScrollButton(true);
+    } else {
+      setShowScrollButton(false);
+    }
+  };
+
+  // Effect hook to add scroll event listener when component mounts
+  useEffect(() => {
+    window.addEventListener("scroll", handleScroll);
+    // Cleanup function to remove event listener when component unmounts
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []); // Empty dependency array ensures effect runs only once after initial render
+
+  // Function to scroll to top when button is clicked
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
   let count = 0;
   return (
-    <div>
+    <div id="content">
       {images.map((item: any, index: number) => {
         if (item === "step") {
           return (
@@ -166,7 +192,7 @@ const UIDesign = () => {
                 padding: 5px;
               `}
             >
-              Step {index - count}
+              {index - count}
             </div>
           );
         }
@@ -178,6 +204,24 @@ const UIDesign = () => {
           </>
         );
       })}
+      {showScrollButton && (
+        <button
+          id="scrollToTopBtn"
+          onClick={scrollToTop}
+          className={css`
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #59e059;
+            border: #59e059;
+            border-radius: 3px;
+            padding: 5px;
+            cursor: pointer;
+          `}
+        >
+          Scroll to Top
+        </button>
+      )}
     </div>
   );
 };
