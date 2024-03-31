@@ -48,19 +48,38 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ### add repository to project
 
 git init
+
 git remote add origin git@github.com:minhtiepaa1/header_antd_custom_ui.git // add link repo
+
 git remote -v // check
+
 fix: There isn’t anything to compare. main and master are entirely different commit histories.
+
 git checkout master
+
 git branch main master -f
+
 git checkout main
+
 git push origin main -f
 
 ## check gmail at vs code
 
 git config user.email
+
 git config user.name
--- add new email to vs code: git config --global user.email "your_email@example.com"
+
+add new email to vs code: git config --global user.email "your_email@example.com"
+
+## change or add new repository
+
+change name remote: origin to old origin (git remote rename origin old-origin)
+
+add more remote: git remote add origin git@github.com:quangvantiepp/sales_website_fe.git
+
+check again: git remote -v
+
+and push code to new repo, two repo need permission to access (git - repo - setting - collaborators ++ add people)
 
 ## custom snipets
 
