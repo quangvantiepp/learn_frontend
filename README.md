@@ -57,6 +57,8 @@ fix: There isn’t anything to compare. main and master are entirely different c
 
 git checkout master
 
+// main is branch origin, master is your branch
+
 git branch main master -f
 
 git checkout main
