@@ -1,4 +1,4 @@
-# Introduce yourself
+### Introduce yourself
 
 Hello. My name is Quang Van Tiep, I'm twenty-four years old, and I come from Son La province.
 My hobbies are watching movies, listening to music, and traveling.
@@ -8,7 +8,7 @@ Today I came here to take an English test to improve my English skills. Which wi
 
 ### 1. MUSIC
 
-# 1.1 What kinds of music do you listen to? Who are some of your favorite musicians or composers?
+### 1.1 What kinds of music do you listen to? Who are some of your favorite musicians or composers?
 
 I listen to many kinds of music depending on my mood or activity.
 Sometimes I like to listen to pop music because it is fun and makes me happy.
@@ -18,7 +18,7 @@ Some of my favorite musicians are very popular. I really like Taylor Swift becau
 Another musician I like is Ed Sheeran. His music is very emotional, and he is a great singer.
 Music is an important part of my life, It helps me relax, and feel happy, Each artist and kind of music brings to me different emotions and memories.
 
-# 1.2 When and where do you usually go to listen to music? Do you listen to the radio? Do you go to converts? Tell me about the different ways you enjoy music.
+### 1.2 When and where do you usually go to listen to music? Do you listen to the radio? Do you go to converts? Tell me about the different ways you enjoy music.
 
 I usually listen to music at different times and places. In the morning, I like to play music while I get ready for the day.
 It helps me wake up and feel good. I also listen to music on my way to work. It makes my travel time more enjoyable.
@@ -33,7 +33,7 @@ The atmosphere is amazing with all the lights and sounds. I don't go to concerts
 
 Music is a big part of my life and it always makes me feel good.
 
-# 1.3 When did you first become interested in music? What kinds of music did you like at first? Tell me how your interest in music developed from your childhood until today
+### 1.3 When did you first become interested in music? What kinds of music did you like at first? Tell me how your interest in music developed from your childhood until today
 
 I first became interested in music when I was a child. I remember listening to songs on the radio with my parents.
 The first kind of music I liked was children's songs. They were fun and easy to sing along with. As I grew older, I started to like different kinds of music.
@@ -46,7 +46,7 @@ In university, I joined the school band. Playing an instrument helped me appreci
 
 Today, I enjoy many kinds of music. I listen to pop, rock, classical, EDM, country music, and more. Music is a big part of my life, and I love discovering new songs and artists. My interest in music has grown a lot since I was a child, and I continue to enjoy it every day.
 
-# 1.4 Could you think back to a particularly memorable time when you heard live music? When was it? Where were you? Who were you with? What happened that performance so memorable?
+### 1.4 Could you think back to a particularly memorable time when you heard live music? When was it? Where were you? Who were you with? What happened that performance so memorable?
 
 One of the most memorable times I heard live music was last summer. It was at a music festival in the park near my house.
 I went there with my best friends. We were all very excited because we were going to see our favorite band perform.
