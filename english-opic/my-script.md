@@ -10,15 +10,15 @@ Today I came here to take an English test to improve my English skills. Which wi
 
 ### 1.1 What kinds of music do you listen to? Who are some of your favorite musicians or composers?
 
-I listen to many kinds of music depending on my mood or activity.
+I listen to many kinds of music. Depending on my mood or activity.
 Sometimes I like to listen to pop music because it is fun and makes me happy.
 I also enjoy listening to EDM music when I need more energy to exercise.
-On quite days, I prefer listening to classical or country music because it is relaxing.
-Some of my favorite musicians are very popular. I really like Taylor Swift because her songs are catchy and tell good stories.
+When I miss my family or my hometown, I prefer listening to classical or country music because it is relaxing.
+Some of my favorite musicians are very popular. I really like Taylor Swift because she is so beautifull, her songs are catchy and tell good stories.
 Another musician I like is Ed Sheeran. His music is very emotional, and he is a great singer.
-Music is an important part of my life, It helps me relax, and feel happy, Each artist and kind of music brings to me different emotions and memories.
+Each artist and kind of music brings to me different emotions and memories.
 
-### 1.2 When and where do you usually go to listen to music? Do you listen to the radio? Do you go to converts? Tell me about the different ways you enjoy music.
+### 1.2 When and where do you usually go to listen to music? Do you listen to the radio? Do you go to concerts? Tell me about the different ways you enjoy music.
 
 I usually listen to music at different times and places. In the morning, I like to play music while I get ready for the day.
 It helps me wake up and feel good. I also listen to music on my way to work. It makes my travel time more enjoyable.
