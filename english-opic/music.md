@@ -4,7 +4,7 @@ Hello. My name is Quang Van Tiep, I'm twenty-four years old, and I come from Son
 My hobbies are watching movies, listening to music, and traveling.
 Currently, I work at Samsung Electronics Vietnam, when I work.
 I need to contact and communicate with colleagues from other countries so English is very important to me.
-Today I came here to take an English test to improve my English skills. Which will help me work better. Thank you.
+Today I came here to take an English test to improve my English skills, Which will help me work better. Thank you.
 
 ### 1. MUSIC
 
@@ -31,7 +31,7 @@ Mỗi nghệ sĩ và thể loại âm nhạc đều mang đến cho tôi những
 I usually listen to music at different times and places. In the morning, I like to play music while I get ready for the day.
 It helps me wake up and feel good. I also listen to music on my way to work. It makes my travel time more enjoyable.
 
-At home, I often listen to music in my bed room. I use my cell phone or computer to play some of my favorite songs.
+At home, I often listen to music in my bed room. I use my cell phone, computer or radio to play some of my favorite songs.
 Sometimes, I listen to music while I cook or do housework. It makes these tasks more fun.
 
 Going to concerts is another way I enjoy music. Concerts are very exciting because I can see my favorite musicians perform live, and I can sing along with thousands of other fans
@@ -77,12 +77,11 @@ I went to a concert in the park with my best friends.
 We were excited because it was our favorite band playing.
 
 The weather was perfect. The sun was setting, and there was a cool breeze.
-We found a nice spot on the grass and sat down. The band started playing, and the music was amazing.
-The crowd was cheering and singing along.
+We found a nice spot on the grass and sat down. The band started playing, Everyone was cheering and singing along.
+and the music was amazing, with all the lights and sounds.
 
-What made the performance so memorable was the feeling of being there with so many happy people.
-Everyone was enjoying the music together. The band played all our favorite songs, and we sang along with them.
-The energy was incredible, and it felt like we were all connected by the music.
+Everyone was enjoying the music together. The band played all our favorite songs,
+and thousands of other fans sang together, we were all connected by the music. Those made the performance so memorable.
 
 That night was unforgettable. The live music, the atmosphere, and sharing it with my best friends made it a very special memory.
 
