@@ -31,7 +31,7 @@ Mỗi nghệ sĩ và thể loại âm nhạc đều mang đến cho tôi những
 I usually listen to music at different times and places. In the morning, I like to play music while I get ready for the day.
 It helps me wake up and feel good. I also listen to music on my way to work. It makes my travel time more enjoyable.
 
-At home, I often listen to music in my bed room. I use my cell phone, computer or radio to play some of my favorite songs.
+At home, I often listen to music in my bedroom. I use my cell phone, computer or radio to play some of my favorite songs.
 Sometimes, I listen to music while I cook or do housework. It makes these tasks more fun.
 
 Going to concerts is another way I enjoy music. Concerts are very exciting because I can see my favorite musicians perform live, and I can sing along with thousands of other fans
@@ -77,7 +77,7 @@ I went to a concert in the park with my best friends.
 We were excited because it was our favorite band playing.
 
 The weather was perfect. The sun was setting, and there was a cool breeze.
-We found a nice spot on the grass and sat down. The band started playing, Everyone was cheering and singing along.
+We found a nice spot on the grass and sat down. The band started playing, Everyone was cheering.
 and the music was amazing, with all the lights and sounds.
 
 Everyone was enjoying the music together. The band played all our favorite songs,
@@ -86,15 +86,14 @@ and thousands of other fans sang together, we were all connected by the music. T
 That night was unforgettable. The live music, the atmosphere, and sharing it with my best friends made it a very special memory.
 
 Tôi nhớ một khoảng thời gian rất đặc biệt khi tôi nghe nhạc sống. Đó là mùa hè năm ngoái.
-Tôi đã đi đến một buổi hòa nhạc ở công viên với những người bạn thân nhất của mình.
+Tôi đã đến buổi hòa nhạc ở công viên với những người bạn thân nhất của mình.
 Chúng tôi rất vui mừng vì đây là ban nhạc yêu thích của chúng tôi biểu diễn.
 
 Thời tiết hoàn hảo. Mặt trời đã lặn và có gió mát.
-Chúng tôi tìm một chỗ đẹp trên bãi cỏ và ngồi xuống.
-Ban nhạc bắt đầu chơi và âm nhạc thật tuyệt vời. Đám đông reo hò và hát theo.
+Chúng tôi tìm được một chỗ đẹp trên bãi cỏ và ngồi xuống. Ban nhạc bắt đầu chơi, mọi người cùng cổ vũ và hát theo.
+và âm nhạc thật tuyệt vời, với tất cả ánh sáng và âm thanh.
 
-Điều khiến buổi biểu diễn trở nên đáng nhớ là cảm giác được ở đó cùng rất nhiều người vui vẻ.
-Mọi người cùng nhau thưởng thức âm nhạc. Ban nhạc chơi tất cả các bài hát chúng tôi yêu thích và chúng tôi hát theo họ.
-Năng lượng thật đáng kinh ngạc và có cảm giác như tất cả chúng ta được kết nối bởi âm nhạc.
+Mọi người cùng nhau thưởng thức âm nhạc. Ban nhạc chơi tất cả các bài hát chúng tôi yêu thích,
+và hàng nghìn người hâm mộ khác đã cùng nhau hát, tất cả chúng tôi đều được kết nối bởi âm nhạc. Những điều đó đã làm cho buổi biểu diễn trở nên đáng nhớ.
 
 Đêm đó thật khó quên. Nhạc sống, bầu không khí và việc chia sẻ nó với những người bạn thân nhất của tôi đã khiến nó trở thành một kỷ niệm rất đặc biệt.
