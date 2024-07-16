@@ -75,8 +75,8 @@ At first, he works for people who want to take resources from the planet.
 But as he spends time with the Na'vi and learns about their way of life, he changes his mind.
 
 "Avatar" was special because it had amazing 3D effects that made the world of Pandora look very real and beautiful.
-The movie also had a strong message about taking care of nature and respecting other cultures.
-This mix of stunning visuals and important themes made "Avatar" a very memorable film.
+The movie also strongly spoke about caring for nature and respecting other cultures.
+Those made "Avatar" a very memorable film.
 
 Một trong những bộ phim đáng nhớ nhất tôi xem là "Avatar" của đạo diễn James Cameron.
 Phim ra mắt vào năm 2009. Phim diễn ra trên một hành tinh tên là Pandora, nơi sinh sống của một dân tộc da xanh tên là Na'vi.
@@ -87,5 +87,5 @@ Lúc đầu, anh ta làm việc cho những người muốn lấy tài nguyên t
 Nhưng khi dành thời gian với người Na'vi và tìm hiểu về lối sống của họ, anh ấy đã thay đổi quyết định.
 
 "Avatar" đặc biệt vì nó có hiệu ứng 3D tuyệt vời khiến thế giới Pandora trông rất chân thực và đẹp đẽ.
-Bộ phim cũng mang thông điệp mạnh mẽ về việc chăm sóc thiên nhiên và tôn trọng các nền văn hóa khác.
-Sự kết hợp giữa hình ảnh ấn tượng và các chủ đề quan trọng đã khiến "Avatar" trở thành một bộ phim rất đáng nhớ.
+Bộ phim cũng nói mạnh mẽ về việc chăm sóc thiên nhiên và tôn trọng các nền văn hóa khác.
+Những điều đó đã làm cho Avatar trở thành một bộ phim rất đáng nhớ.
