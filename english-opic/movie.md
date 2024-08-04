@@ -1,15 +1,15 @@
 ### What kinds of movies do you like to watch? why do you like those types of movies?
 
 I like to watch blockbusters and Science fiction movies.
-Because those are famous movies that many people go to see
+Those are famous movies that many people go to see.
 
-Blockbuster movies often have lots of action, special effects, and big stars.
+I like Blockbuster movies Because they often have lots of action, special effects, and big stars.
 They are exciting and fun to watch because they have amazing scenes.
 
 Science fiction movies, are about fantasy worlds and future technology.
 They often show space travel, and advanced robots.
 
-I like sci-fi movies because they make me think about what the future might be like.
+I like Science fiction movies because they make me think about what the future might be like.
 They show how science and technology can change our lives.
 
 These movies let me experience new adventures and ideas.
@@ -23,7 +23,7 @@ It was a sunny Saturday, and we were excited for a fun day out.
 Before the movie, we met at a nearby café.
 After finishing our drinks, we walked to the movie theater.
 
-At the theater, we bought our tickets and some snacks and candies.
+At the theater, we bought our tickets and some snacks.
 We found our seats and waited for the movie to start.
 
 The movie was fantastic! It had a lot of action and special effects,

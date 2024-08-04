@@ -34,10 +34,9 @@ At home, I often listen to music in my bedroom.
 I use my cell phone, computer or radio to play some of my favorite songs.
 
 Going to concerts is another way I enjoy music.
-Concerts are very exciting because I can see my favorite musicians perform live, and I can sing along with thousands of other fans
-I don't go to concerts very often, but when I do, it's always a special experience.
+Concerts are very exciting because I can see my favorite musicians perform live, and I can sing along with thousands of other fans.
 
-Each place, time and different ways of listening to music give me different feelings about music
+I don't go to concerts very often, but when I do, it's always a special experience.
 
 ### 1.3 When did you first become interested in music? What kinds of music did you like at first? Tell me how your interest in music developed from your childhood until today
 
