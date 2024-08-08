@@ -38,3 +38,29 @@ Around noon, I had a picnic with a sandwich and fruit.
 
 Before leaving, I took a short nap under the tree.
 I left the park at 2 p.m., feeling happy and refreshed.
+
+### How did you first start going to parks. What made you visit parks that you like to visit? What does the park look like?
+
+I started going to parks as a child when my parents took me there to play.
+I loved the swings and slides and enjoyed playing with other kids.
+
+Now, I visit parks to relax and enjoy nature.
+My favorite park is big, with tall trees, colorful flowers, and a small lake with ducks.
+There are benches where I can sit and watch everything around me.
+
+The park has a playground, a jogging track, and picnic areas.
+Families often come to have picnics and enjoy the fresh air.
+I always feel happy and calm after visiting the park.
+
+### Tell me about a memorable experience you had at a park. maybe there was a special event, or maybe something unexpected happened. Begin by giving me some background about when and where it was and then, give me all the details about what happened
+
+Last summer, I had a memorable experience at Nature Park.
+My friend and I went for a picnic on a warm Saturday.
+We didn't know there was a music festival that day.
+
+As we ate, a group of performers in colorful costumes appeared and started juggling.
+It was unexpected and fun to watch.
+Later, we joined the crowd to see a band play live.
+We danced and enjoyed the music.
+
+It was a special day because of the surprise performance and the fun we had together. I'll always remember it.

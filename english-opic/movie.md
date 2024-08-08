@@ -1,7 +1,7 @@
 ### What kinds of movies do you like to watch? why do you like those types of movies?
 
 I like to watch blockbusters and Science fiction movies.
-Those are famous movies that many people go to see.
+They are famous movies that many people go to see.
 
 I like Blockbuster movies Because they often have lots of action, special effects, and big stars.
 They are exciting and fun to watch because they have amazing scenes.
