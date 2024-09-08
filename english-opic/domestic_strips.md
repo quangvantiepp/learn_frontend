@@ -21,8 +21,12 @@ Lastly, I research the local culture and attractions so I can make the most of m
 
 ### Traveling can lead to many kinds of interesting, funny, and unexpected experiences. Tell me about one travel experience you had that was unforgettable. start by telling me when this happened, where you were, and who you were, and then, tell me, about all the things that happened that made this experience unforgettable
 
-Last year, I visited Cat Ba Island with friends.
-During a boat tour around Lan Ha Bay, the engine suddenly broke down, leaving us stranded.
-Instead of panicking, we made the most of it by swimming in the clear water and watching local fishermen.
-Eventually, another boat rescued us, but the unexpected adventure made the experience unforgettable.
-What could have been a bad situation turned into one of the best memories of the trip.
+Last summer, I went to Cat Ba Island with my friends.
+We were excited to explore the island, so we took a boat tour around Lan Ha Bay.
+Everything was going well until the boat suddenly stopped because the engine broke down.
+At first, we were nervous, but then we decided to have fun.
+We jumped into the water and swam while waiting for help.
+And we saw many beautiful fish.
+After some time, another boat came to help us.
+Instead of being upset, we laughed and enjoyed the experience.
+This adventure made the trip unforgettable because we turned a problem into a fun memory.
