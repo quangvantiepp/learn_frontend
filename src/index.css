@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+:root {
+
+  --Free: #28a745;
+  --Borrowed: #ffc107;
+  --Sent_out: #fd7e14;
+  --Disused: #6c757d;
+  --Sending: #17a2b8;
+  --Disusing: #007bff;
+  --Carry_out: #6f42c1;
+  --Lost: #dc3545;
+  --Reserved: #4ecbf1;
+  --Sent_out_reserved: #e83e8c;
+
+  --Borrowed: #ffc107;
+  --Pending: #17a2b8;
+  --Returned: #28a745;
+  --Cancel: #dc3545;
+}
