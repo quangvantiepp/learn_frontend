@@ -78,8 +78,8 @@ add new email to vs code: git config --global user.email "your_email@example.com
 change name remote: origin to old origin (git remote rename origin old-origin)
 
 add more remote: git remote add origin git@github.com:quangvantiepp/sales_website_fe.git
-re-set URL: git remote set-url origin-security git@github.com:quangvantiepp/spring-boot-security.git
-remove: git remote remove origin
+- re-set URL: git remote set-url origin-security git@github.com:quangvantiepp/spring-boot-security.git
+- remove: git remote remove origin
 check again: git remote -v
 
 and push code to new repo, two repo need permission to access (git - repo - setting - collaborators ++ add people)
