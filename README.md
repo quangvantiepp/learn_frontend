@@ -54,16 +54,14 @@ git remote add origin git@github.com:minhtiepaa1/header_antd_custom_ui.git // ad
 git remote -v // check
 
 fix: There isn’t anything to compare. main and master are entirely different commit histories.
+// master is branch origin, dev is your branch
+git checkout dev
+
+git branch master dev -f
 
 git checkout master
 
-// main is branch origin, master is your branch
-
-git branch main master -f
-
-git checkout main
-
-git push origin main -f
+git push origin master -f
 
 ## check gmail at vs code
 
