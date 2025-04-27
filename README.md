@@ -54,6 +54,10 @@ git remote add origin git@github.com:minhtiepaa1/header_antd_custom_ui.git // ad
 git remote -v // check
 
 #### fix: There isn’t anything to compare. main and master are entirely different commit histories.
+// master is branch origin, dev is your branch
+git checkout dev
+
+git branch master dev -f
 
 git checkout master
 
@@ -64,14 +68,6 @@ git branch main master -f
 git checkout main
 
 git push origin main -f
-
-#### fix error pull when just add new repository: fatal: refusing to merge unrelated histories
-
-git pull origin master --allow-unrelated-histories
-
-#### fix not push to git when add new gmail in git config (create new sshKey)
-
-cmd -> run command -> ssh-keygen and add to the git account
 
 ## check gmail at vs code
 
@@ -86,7 +82,8 @@ add new email to vs code: git config --global user.email "your_email@example.com
 change name remote: origin to old origin (git remote rename origin old-origin)
 
 add more remote: git remote add origin git@github.com:quangvantiepp/sales_website_fe.git
-
+- re-set URL: git remote set-url origin-security git@github.com:quangvantiepp/spring-boot-security.git
+- remove: git remote remove origin
 check again: git remote -v
 
 and push code to new repo, two repo need permission to access (git - repo - setting - collaborators ++ add people)
