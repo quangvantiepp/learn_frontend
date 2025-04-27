@@ -53,7 +53,7 @@ git remote add origin git@github.com:minhtiepaa1/header_antd_custom_ui.git // ad
 
 git remote -v // check
 
-fix: There isn’t anything to compare. main and master are entirely different commit histories.
+#### fix: There isn’t anything to compare. main and master are entirely different commit histories.
 // master is branch origin, dev is your branch
 git checkout dev
 
@@ -61,7 +61,13 @@ git branch master dev -f
 
 git checkout master
 
-git push origin master -f
+// main is branch origin, master is your branch
+
+git branch main master -f
+
+git checkout main
+
+git push origin main -f
 
 ## check gmail at vs code
 
@@ -82,6 +88,6 @@ check again: git remote -v
 
 and push code to new repo, two repo need permission to access (git - repo - setting - collaborators ++ add people)
 
-## custom snipets
+## custom snippets
 
 // https://snippet-generator.app/?description=&tabtrigger=&snippet=&mode=vscode

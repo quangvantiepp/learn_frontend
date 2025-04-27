@@ -107,6 +107,22 @@ const UIDesign = () => {
     require.context(`../../images/ui_design/p22/`, false, /\.(png|jpe?g|svg)$/)
   );
 
+  let colors1 = importAll(
+    require.context(
+      `../../images/ui_colors/use_colors/`,
+      false,
+      /\.(png|jpe?g|svg)$/
+    )
+  );
+
+  let complementaryColor = importAll(
+    require.context(
+      `../../images/ui_colors/complementary_color/`,
+      false,
+      /\.(png|jpe?g|svg)$/
+    )
+  );
+
   let images = [
     ...p1,
     "step",
@@ -152,6 +168,10 @@ const UIDesign = () => {
     "step",
     ...p22,
     "step",
+    "Colors",
+    ...colors1,
+    "ComplementaryColor",
+    ...complementaryColor,
   ];
 
   // State to manage whether to display the scroll-to-top button
@@ -193,6 +213,19 @@ const UIDesign = () => {
               `}
             >
               {index - count}
+            </div>
+          );
+        } else if (item === "Colors" || item === "ComplementaryColor") {
+          return (
+            <div
+              className={css`
+                background-color: #41e441;
+                padding: 5px;
+              `}
+            >
+              {item === "ComplementaryColor"
+                ? "https://digiart.academy/blog/6-loai-bang-phoi-mau-sac-giup-tong-the-hai-hoa-va-noi-bat"
+                : item}
             </div>
           );
         }
