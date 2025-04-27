@@ -110,3 +110,73 @@ Dẫn chứng: Nghiên cứu từ Microsoft cho thấy thời gian tập trung l
 ## 3 Suy giảm trí nhớ: Việc dễ dàng tra cứu thông tin khiến con người kém ghi nhớ kiến thức.
 
 Dẫn chứng: Thí nghiệm tại các trường THPT Việt Nam cho thấy học sinh sử dụng internet thường xuyên có điểm kiểm tra từ vựng thấp hơn 27% so với nhóm học truyền thống.
+
+
+# Cách lập dàn ý
+### 📌 MẪU MỞ BÀI CƠ BẢN CHO MỌI ĐỀ (dùng được trong tranh biện)
+"Kính chào Ban giám khảo, quý vị khán giả và đội bạn.
+Chúng tôi đến từ đội [Tên đội] và hôm nay chúng tôi xin trình bày quan điểm [ủng hộ/phản đối] đối với đề tài: '[Đề bài]'.
+Chúng tôi tin rằng [lập luận chính - một câu ngắn gọn] vì những lý do sau đây."
+
+→ Sau đó bạn giới thiệu luận điểm chính: "Thứ nhất, ..., Thứ hai, ..., Thứ ba, ...".
+
+Ví dụ nếu đề bài là "Công nghệ làm giảm khả năng tư duy của con người":
+
+"Chúng tôi tin rằng công nghệ làm suy giảm khả năng tư duy độc lập vì nó làm con người phụ thuộc, giảm khả năng phân tích thông tin và mất khả năng tập trung."
+
+### 📌 CÁCH LẬP DÀN Ý NHANH TRONG 10 PHÚT
+Bước 1 (2 phút): Hiểu đề → Chốt lại: ủng hộ hay phản đối?
+(Đọc kỹ đề, tự hỏi: mình đang bảo vệ cái gì?)
+
+Bước 2 (4 phút): Nghĩ 3 luận điểm chính
+👉 Tip:
+
+Luận điểm 1: Tác động chung (rộng)
+
+Luận điểm 2: Ví dụ thực tế chứng minh
+
+Luận điểm 3: Tác động dài hạn / thế hệ / tương lai
+
+Bước 3 (4 phút):
+
+Mỗi luận điểm → 1 ví dụ cụ thể
+
+Soạn sẵn câu chuyển mạch:
+
+"Trước hết,..."
+
+"Tiếp theo,..."
+
+"Cuối cùng,..."
+
+### 📌 MẪU KHUNG DÀN Ý 10 PHÚT (BẠN CÓ THỂ DÙNG LUÔN)
+Mở bài:
+
+Giới thiệu đội
+
+Nêu quan điểm
+
+Tóm tắt 3 luận điểm chính
+
+Thân bài (chia 3 phần theo luận điểm):
+
+Luận điểm 1 → Giải thích → Ví dụ
+
+Luận điểm 2 → Giải thích → Ví dụ
+
+Luận điểm 3 → Giải thích → Ví dụ
+
+Kết bài:
+
+Khẳng định lại quan điểm
+
+Kêu gọi Ban giám khảo ủng hộ đội mình
+
+### 📌 Một số câu chuyển mạch bạn có thể học thuộc trước
+"Trước hết, chúng tôi xin khẳng định rằng..."
+
+"Bên cạnh đó, một yếu tố khác cần được nhấn mạnh là..."
+
+"Cuối cùng, chúng tôi tin rằng về dài hạn,..."
+
+"Từ những lập luận trên, chúng tôi tin rằng..."
