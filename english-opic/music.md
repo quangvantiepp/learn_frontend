@@ -1,25 +1,27 @@
 ### Introduce yourself
 
-Hello. My name is Quang Van Tiep, I'm twenty-four years old, and I come from Son La province.
+Hello. My name is Quang Van Tiep. I'm twenty-five years old, and I come from Son La province.
 My hobbies are watching movies, listening to music, and traveling.
-Currently, I work at Samsung Electronics Vietnam, when I work.
-I need to contact and communicate with colleagues from other countries so English is very important to me.
-Today I came here to take an English test to improve my English skills, Which will help me work better. Thank you.
+People often say that I'm a quiet person, but I'm also hardworking.
+Currently, I work at Samsung Electronics Vietnam.
+In my job, I need to understand documents, and I often contact and communicate with colleagues from many countries.
+So, English is very important to me.
+Today, I’m here to take an English test to improve my English skills, which will help me work better in the future. Thank you.
 
 ### 1. MUSIC
 
 ### 1.1 What kinds of music do you listen to? Who are some of your favorite musicians or composers?
 
 I listen to many kinds of music. Depending on my mood or activity.
-Sometimes I like listening to pop music because it is fun and makes me happy.
-I also enjoy listening to EDM music when I need more energy to exercise or dance.
-When I miss my family or my hometown, I like listening to classical or country music because it is relaxing.
+Sometimes, I enjoy listening to pop music because it’s fun and makes me feel happy.
+I also like EDM when I need more energy, especially when I exercise or feel like dancing.
+When I miss my family or my hometown, I prefer classical or country music because it feels relaxing and comforting.
 
 Some of my favorite musicians are very popular.
-I really like Taylor Swift because she is so beautifull, her songs are catchy and tell good stories.
+I really like Taylor Swift because she’s beautiful, her songs are catchy, and they tell great stories.
 Another musician I like is Ed Sheeran.
-He is very handsome, His music is very emotional, and he is a great singer.
-Each artist and kind of music brings to me different emotions and memories.
+He’s very talented, and his music is full of emotion. He’s also a great live performer.
+Each artist and type of music gives me different emotions and brings back special memories.
 
 ### 1.2 When and where do you usually go to listen to music? Do you listen to the radio? Do you go to concerts? Tell me about the different ways you enjoy music.
 
