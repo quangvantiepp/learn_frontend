@@ -25,52 +25,49 @@ Each artist and type of music gives me different emotions and brings back specia
 
 ### 1.2 When and where do you usually go to listen to music? Do you listen to the radio? Do you go to concerts? Tell me about the different ways you enjoy music.
 
-I usually listen to music at different times and places.
-In the morning, I like to play music while I get ready for the day.
-It helps me wake up and feel good.
+I listen to music almost every day, and I usually do it when I’m commuting, working, or relaxing at home.
 
-I also listen to music on my way to work.
-It makes my travel time more enjoyable.
+For example, when I take the bus to work, I like to wear my earphones and play soft pop music or lo-fi beats. It helps me start the day in a better mood.
 
-At home, I often listen to music in my bedroom.
-I use my cell phone, computer or radio to play some of my favorite songs.
+At work, I sometimes listen to instrumental music to help me focus. At night, I enjoy playing music on my speaker while lying on my bed.
 
-Going to concerts is another way I enjoy music.
-Concerts are very exciting because I can see my favorite musicians perform live, and I can sing along with thousands of other fans.
+I don’t listen to the radio very often, but sometimes when I’m in a taxi or a coffee shop, I hear music from the radio. It’s a fun way to discover new songs.
 
-I don't go to concerts very often, but when I do, it's always a special experience.
+As for concerts, I haven’t been to many, but I went to one last year with my friends. The atmosphere was exciting, and hearing live music felt very special.
+
+Overall, I enjoy music in different ways depending on my mood, location, and what I’m doing.
 
 ### 1.3 When did you first become interested in music? What kinds of music did you like at first? Tell me how your interest in music developed from your childhood until today
 
-I first became interested in music when I was a child.
+I think I became interested in music when I was a child.
 
-I remember listening to songs on the radio with my parents.
-The first kind of music I liked was children's songs.
-They were fun and easy to sing along with.
+When I was in elementary school, my parents used to play Vietnamese folk songs and soft ballads at home. 
+I didn’t understand the lyrics much, but I liked the melodies. That was the first time I felt connected to music.
 
-As I grew older, I started to like different kinds of music.
+Later, in middle school, I started listening to pop songs by Vietnamese singers like Son Tung M-TP. 
+At that time, I liked music that was fun and easy to sing along with. 
+I would often share songs with my friends and talk about our favorite artists.
 
-In high school, I enjoyed pop music. Because pop music was very popular and I liked the happy and upbeat tunes.
-My friends and I often listen to pop songs and dance together.
+In high school and university, my taste in music changed. 
+I started enjoying English songs, especially from artists like Ed Sheeran or Taylor Swift. 
+Their songs helped me learn English and understand different cultures.
 
-When I got to university, I started to discover other types of music.
-I listened to rock music because it was exciting.
-
-Today, I enjoy many kinds of music.
-I listen to pop, rock, classical, EDM, country music, and more.
-Music is a big part of my life.
+Now, I listen to many types of music depending on my mood, like EDM for energy or piano music for focus. 
+Music has become a big part of my life, and I can't imagine a day without it.
 
 ### 1.4 Could you think back to a particularly memorable time when you heard live music? When was it? Where were you? Who were you with? What happened that performance so memorable?
 
-I remember a very special time when I heard live music. It was last summer.
-I went to a concert in the park with my friend.
-We were excited because it was our favorite band playing.
+One of the most memorable times I heard live music was last year, at a concert in Hanoi.
 
-The weather was perfect. The sun was setting.
-We found a nice spot on the grass and sat down.
-The band started playing, Everyone was cheering.
-and the music was amazing, with all the lights and sounds.
+It was a music festival held outdoors, and I went there with two of my close friends. 
+We were all very excited because our favorite artist, Son Tung M-TP, was performing.
 
-Everyone was enjoying the music together.
-The band played all our favorite songs, and thousands of other fans sang together.
-We were all connected by the music. Those made the performance so memorable.
+The atmosphere was amazing — there were lights, big speakers, and thousands of people cheering. 
+When he came on stage, everyone screamed and sang along. I remember feeling so happy and full of energy.
+
+What made it special was that it was my first live concert ever. 
+I had only seen him on YouTube before, so watching him perform in person was a completely different experience.
+
+We stayed until the end, and even though it rained a little, we didn’t care. After the show, we talked about it for days.
+
+That night made me realize how powerful live music can be. I still think about it whenever I hear his songs.
