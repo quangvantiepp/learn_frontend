@@ -4,7 +4,7 @@ First of all, a lot of people go online to watch movies or TV shows, and some en
 Others spend time on social media, sharing pictures, writing posts, or just scrolling through news. 
 Many students also use the internet for studying, like searching for information or watching lectures. 
 For me, I usually watch YouTube videos and listen to music online, because it helps me relax after work. 
-Overall, the internet is a place where people can study, play, and connect with others all at the same time
+The internet is a place where people can study, play, and connect with others all at the same time
 
 ### 2. What do you usually do on the internet? Do you like to shop online? Do you like sharing videos with other people? Tell me about everything that you do online.
 I usually use the internet every day. 
@@ -13,7 +13,7 @@ I also enjoy chatting with my friends on social media and sharing pictures.
 Sometimes I shop online when I need clothes or gadgets, because it is convenient. 
 At work, I often check my email and search for useful information. 
 The internet also helps me read the news so I can know what is happening in the world. 
-Overall, I think the internet is a place for both fun and learning, and I really can’t live without it
+I think the internet is a place for both fun and learning, and I really can’t live without it
 
 ### 3. Tell me about your early experience of surfing the internet. What do you remember particularly about that experience?
 I still remember the first time I surfed the internet. 
