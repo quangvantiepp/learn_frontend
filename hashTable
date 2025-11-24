@@ -1,0 +1,177 @@
+#include<iostream>
+using namespace std;
+
+
+struct Road{
+	int id;
+	int dis;
+
+	Road(int id, int dis): id(id), dis(dis){};
+};
+
+
+class HashTable{
+private:
+	static const int TABLE_SIZE = 1031;
+	static const int KEY_SIZE = 20;
+
+	struct Node {
+		char* key;
+		Road road;
+		Node* next;
+
+		Node(char* str, Road road): key(str), road(road), next(nullptr){
+		
+			key = new char[KEY_SIZE];
+			int i = 0;
+			while (str[i] != '\0')
+			{
+				key[i] = str[i];
+				i++;
+			}
+			key[i] = '\0';
+		};
+
+		~Node(){
+		
+			delete key;
+		}
+	};
+
+	int hash(char* key){
+		int index = 0;
+		for (int i = 0; key[i] != '\0'; i++)
+		{
+			index = ((index * 31) + key[i]) % TABLE_SIZE;
+		}
+
+		return index;
+	}
+
+	bool strCompare(const char* str1, const char* str2){
+		int i =0;
+
+		while (str1[i] != '\0' && str2[i] != '\0')
+		{
+			if (str1[i] != str2[i])
+			{
+				return false;
+			}
+			i++;
+		}
+		return str1[i] == str2[i];
+	}
+
+public:
+
+	Node* table[TABLE_SIZE];
+
+	HashTable(){
+	
+	  for (int i = 0; i < TABLE_SIZE; i++)
+	  {
+		 table[i] = nullptr;
+	  }
+	}
+
+	~HashTable(){
+	
+		for (int i = 0; i < TABLE_SIZE; i++)
+		{
+		   Node* curr = table[i];
+		   if (curr)
+		   {
+			  Node* temp = curr;
+			  curr = curr->next;
+			  delete temp;
+		   }
+		}
+	}
+	
+	void put(char* key, Road road){
+	
+		int index = hash(key);
+
+		Node* curr = table[index];
+
+		while (curr)
+		{
+			if (strCompare(curr->key, key))
+			{
+				curr->road = road;
+				return;
+			}
+			curr = curr->next;
+		}
+
+		Node* newNode = new Node(key, road);
+		newNode->next = table[index];
+		table[index] = newNode;
+	}
+
+	Road get(char* key){
+	
+		int index = hash(key);
+
+		Node* curr = table[index];
+
+		while (curr)
+		{
+			if (strCompare(curr->key, key))
+			{
+				return curr->road;
+			}
+			curr = curr->next;
+		}
+		return Road(0,0);
+	}
+
+	void remove(char* key){
+		int index = hash(key);
+
+		Node* curr = table[index];
+		Node* prev = nullptr;
+
+		while (curr)
+		{
+			if (strCompare(curr->key, key))
+			{
+				if (!prev)
+				{
+					Node* temp = curr;
+					table[index] = curr->next;
+					delete temp;
+					return;
+				}else{
+					Node* temp = curr;
+					prev->next = curr->next;
+					delete temp;
+					return;
+				}
+			}
+			prev = curr;
+			curr = curr->next;
+		}
+
+	}
+
+};
+
+int main(){
+
+	HashTable hash;
+
+	Road road2 = Road(5, 5);
+
+	hash.put("hello", Road(3,3));
+	hash.put("getRoad2", road2);
+
+	cout <<"get hello:"<<hash.get("hello").dis<<endl;
+	cout <<"get road2:"<<hash.get("getRoad2").dis<<endl;
+	cout <<"remove road2:"<<endl;
+
+	hash.remove("getRoad2");
+	cout <<"get road2 2:"<<hash.get("getRoad2").dis<<endl;
+
+	return 0;
+}
